@@ -8,4 +8,4 @@ By Phone Maung
 - Calculate totals and VAT
 
 ## How to run
-Open `quotation.html` in your web browser.
+Open `index.html` in your web browser.
